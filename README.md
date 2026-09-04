@@ -7,3 +7,5 @@ kolaborasi menggunakan fork
 * ayam keren
 * ayam kanibal
 * sapi keren
+* domba keren
+* 
