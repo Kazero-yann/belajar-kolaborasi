@@ -8,4 +8,4 @@ kolaborasi menggunakan fork
 * ayam kanibal
 * sapi keren
 * domba keren
-* 
+* sapi kanibak
