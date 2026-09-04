@@ -5,4 +5,5 @@ kolaborasi menggunakan fork
 * ayam sapi
 * ayamm bakar
 * ayam keren
-* ayam kanibal  
+* ayam kanibal
+* sapi keren
